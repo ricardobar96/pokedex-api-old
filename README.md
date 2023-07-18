@@ -6,7 +6,7 @@ Api created in Android Studio using Java that brings data from https://pokeapi.c
 
 ## Old version (this repository):
 
-![IMG-20230603-WA0016](https://github.com/ricardobar96/pokedex-api-old/assets/73242474/00af8b88-6c6b-44c9-b7cc-6461b8dd77bc)
+![Sin título2](https://github.com/ricardobar96/pokedex-api-old/assets/73242474/cd9abf46-fde4-4a13-81e1-39288302b45f)
 
 ## Updated version (https://github.com/ricardobar96/pokedex-api):
 
