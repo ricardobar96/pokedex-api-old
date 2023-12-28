@@ -6,10 +6,15 @@ Api that brings data from https://pokeapi.co/. I created this app in Android Stu
 
 ## Updated version (https://github.com/ricardobar96/pokedex-api):
 
-![Sin título](pokedex-new.png)
+<img src="pokedex-new.png" width="700"/>
+
+</br>
+</br>
+</br>
+</br>
 
 ## Old version (this repository):
 
-![Sin título2](pokedex-old.jpg)
+<img src="pokedex-old.jpg" width="700"/>
 
 
