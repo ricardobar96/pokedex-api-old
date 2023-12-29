@@ -9,9 +9,9 @@ Api that brings data from https://pokeapi.co/. I created this app in Android Stu
 ## Features
 
 - API consumption.
-- Recycler View display.
-- Display API text.
-- Display API Images.
+- RecyclerView display.
+- API text display.
+- API images display.
 
 </br>
 
