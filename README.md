@@ -1,8 +1,8 @@
 # pokedex-api-old
 
-Api that brings data from https://pokeapi.co/. I created this app in Android Studio using Java and consuming the api with Retrofit.
+Api that brings data from https://pokeapi.co/. I created this app in Android Studio using Java and consuming the api with Retrofit, displaying the data in a RecyclerView.
 
-**Updated** version at https://github.com/ricardobar96/pokedex-api, developed by me and Enrique. I modified the Api to return only **the first 151 pokemon** (first generation), cleared the layout to display only **one pokemon per row** and changed its **visual appearance**, bringing new functionalities in the form of **menu items** and the possibility to access to a **specific pokemon** view by clicking on it. Enrique contributed by migrating the app to **Kotlin**,  changing with me **the appearance** of the app (such as implementing the **CardView**) and **cleaning** the code while keeping all functionalities.
+**Updated** version at https://github.com/ricardobar96/pokedex-api. I modified the Api to return only **the first 151 pokemon** (first generation), cleared the layout to display only **one pokemon per row** and changed its **visual appearance**, bringing new functionalities in the form of **menu items** and the possibility to access to a **specific pokemon** view by clicking on it. Enrique contributed by migrating the app to **Kotlin**,  changing with me **the appearance** of the app (such as implementing the **CardView**) and **cleaning** the code while keeping all functionalities.
 
 </br>
 
